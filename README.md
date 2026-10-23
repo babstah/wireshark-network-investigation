@@ -56,3 +56,45 @@ This project helped me develop my understanding of network traffic analysis and 
 ## Supporting Evidence
 
 Wireshark screenshots and a more detailed investigation report will be added to demonstrate the findings from all three PCAP files.
+
+
+### Supporting Evidence
+
+**Network Conversations**
+
+![Network Conversations](pcap1-conversations.png)
+
+**TCP SYN Port Scan**
+
+![TCP SYN Scan](pcap1-syn-scan.png)
+
+**Port 80 SYN-ACK Response**
+
+![Port 80 Response](pcap1-port80-response.png)
+
+
+### Supporting Evidence
+
+**Failed FTP Login Attempts**
+
+![Failed FTP Logins](pcap2-failed-logins.png)
+
+**Successful FTP Authentication**
+
+![Successful FTP Login](pcap2-successful-login.png)
+
+**Confidential File Retrieval**
+
+![FTP File Retrieval](pcap2-file-retrieval.png)
+
+
+### Supporting Evidence
+
+**Repeated Failed Login Attempts**
+
+![Failed FTP Logins](pcap3-failed-logins.png)
+
+**No Successful FTP Authentication**
+
+![No Successful Logins](pcap3-no-successful-login.png)
+
